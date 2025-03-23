@@ -1,2 +1,1 @@
-# Meu primeiro teste no git/gitHub
- 
+# Exercicios resolvidos por mim do curso de logica de programação Udemy
