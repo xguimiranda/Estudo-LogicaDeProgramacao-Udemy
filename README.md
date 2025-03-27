@@ -21,6 +21,7 @@ Este repositório reúne exercícios simples usados para treinar lógica de prog
 ## 🗂️ Estrutura
 
 - `c/` → Exercícios resolvidos em C
+- `c++/` →Exercicios resolvidos em C++
 - `python/` → Exercícios em Python
 - `java/` → Exercícios em Java
 - `outros/` → Lógica com VisualG ou pseudo-código
@@ -37,7 +38,6 @@ Este repositório reúne exercícios simples usados para treinar lógica de prog
 
 ## 📚 Próximos passos
 
-- Finalizar a base em C++
 - Começar mini-projetos com cada linguagem
 - Publicar projetos reais no GitHub com README completo
 
