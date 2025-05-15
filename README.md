@@ -36,8 +36,7 @@ Este repositório reúne exercícios simples usados para treinar lógica de prog
 
 ---
 
-## 📚 Próximos passos
+## 📚 testes
 
-- Começar mini-projetos com cada linguagem
-- Publicar projetos reais no GitHub com README completo
+- realizei alguns testes aqui nesse repositorio tambem para aprender melhor como mexer no GitHub
 
