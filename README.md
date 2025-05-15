@@ -36,7 +36,3 @@ Este repositório reúne exercícios simples usados para treinar lógica de prog
 
 ---
 
-## 📚 testes
-
-- realizei alguns testes aqui nesse repositorio tambem para aprender melhor como mexer no GitHub
-
