@@ -1,4 +1,4 @@
-# 💡 Exercícios de Lógica de Programação
+# Estudo de Lógica de Programação 📚💡
 
 Este repositório reúne exercícios simples usados para treinar lógica de programação nas linguagens **C**, **Python**, **Java**, e outras.
 
