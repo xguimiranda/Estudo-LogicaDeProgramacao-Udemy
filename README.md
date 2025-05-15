@@ -35,3 +35,4 @@ Este repositório reúne exercícios simples usados para treinar lógica de prog
 - Futuramente este repositório poderá ser reestruturado ou movido para um histórico de estudo.
 
 ---
+
