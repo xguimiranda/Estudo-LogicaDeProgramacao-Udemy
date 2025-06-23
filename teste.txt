@@ -1,0 +1,2 @@
+Hi gui Miranda tester 
+system.out.print
