@@ -1,2 +1,0 @@
-testando pull requests e merge no github
-using vsc to test all the features 
